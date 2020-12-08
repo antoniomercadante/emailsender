@@ -1,2 +1,2 @@
 # emailsender
-Send email in python
+Send email using python
